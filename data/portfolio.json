@@ -1,0 +1,194 @@
+{
+  "name": "周子琪 Zoe",
+  "heroPhoto": "/images/c2eac96a434911b5e6afc6a4e5264092.jpg",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": false,
+  "socials": [
+    { "id": "1", "title": "Email", "link": "mailto:3248719076@qq.com" },
+    { "id": "2", "title": "GitHub", "link": "https://github.com/ytydcbn" },
+    { "id": "3", "title": "小红书", "link": "#xiaohongshu" },
+    { "id": "4", "title": "抖音", "link": "#douyin" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "小红书美妆博主",
+      "subtitle": "个人自媒体 | 2024.4 - 至今",
+      "description": "从零运营美妆赛道账号，最高单篇阅读量 42.9w（点赞 3w+），累计 4 篇万赞爆文、近 20 篇千赞爆文，总赞藏 23w+，粉丝 6254。对接橘朵、视客、拼多多等品牌完成商务合作全流程。",
+      "galleries": [
+        {
+          "title": "万赞系列",
+          "images": [
+            "/images/projects/9182915390a92413cd175e5994d4c78f.jpg",
+            "/images/projects/6a8990830ba5f94aea7e7051bf16a2b0.jpg",
+            "/images/projects/8fd1fecbfab71a5ef6ceaf75af6ad182.jpg",
+            "/images/projects/fa8e758bbdc2ec66e7429d7eb7641349.jpg"
+          ]
+        },
+        {
+          "title": "千赞爆文",
+          "images": [
+            "/images/projects/766ca81528c0eb70628e2198f3f11b55.jpg",
+            "/images/projects/b913ba63bd864c0d46c3578d6a6cc7c8.jpg",
+            "/images/projects/c3953b352f7f920675b0c79b8b6fcb82.jpg",
+            "/images/projects/89d9f02c7cbf4275506921fda4ccf1fc.jpg",
+            "/images/projects/16ee0ef3bafa334dabbb52b156d41d54.jpg",
+            "/images/projects/cbb68390b7cc4418decfbc709fb8821a.jpg",
+            "/images/projects/a9faa8721c0c3cfb326bec7d5376d2fb.jpg",
+            "/images/projects/be84d9bb548ca75a5a9f3d8eee15709e.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "抖音带货博主",
+      "subtitle": "零食百货赛道 | 2025.8 - 至今",
+      "description": "通过热点预判和数据分析进行选品，独立完成脚本策划、拍摄与剪辑。橱窗销量 4746 件，GMV 达数万元，实现稳定出单。",
+      "highlights": ["橱窗销量 4746 件", "GMV 数万元", "A/B 测试优化转化话术", "卖点提炼与焦虑营销策略"],
+      "images": [
+        "/images/projects/92325bb45158a1a2408024b7f37aa5d1.jpg",
+        "/images/projects/e0693147a9aaa13025105a883dd1d086.jpg",
+        "/images/projects/a23b3fda5497df972e40bd804a0006a5.jpg",
+        "/images/projects/728be1a3e2cea177713206f8bdaa19eb.jpg",
+        "/images/projects/391ccbc9a9d2c3f53e0cdc71d16a0e4a.jpg",
+        "/images/projects/4fa643cb4980db2abc2abbc03553787b.jpg",
+        "/images/projects/381da64ffb2e281bc9e2dcd1273cb87c.jpg"
+      ],
+      "url": ""
+    },
+    {
+      "id": "3",
+      "title": "IP 孵化运营",
+      "subtitle": "京杭时代传媒 | 2026.1 - 2026.2",
+      "description": "从零孵化民宿主理人 IP，首条选题即爆款（播放 13.1w，点赞 1.6k+，转发 1.7k+）。独立完成 4 位不同赛道 IP 的定位与内容策划，周度复盘数据并优化。",
+      "highlights": ["首条播放 13.1w 起号成功", "同时运营 4 个不同赛道 IP", "每周 3 条内容稳定产出", "数据复盘驱动内容优化"],
+      "images": [
+        "/images/projects/478c96f92065aa2fa548e90ef5e700b6.jpg",
+        "/images/projects/28ed94ca85afcb000bcc1a436f5dadc9.png"
+      ],
+      "baiduPanLink": "https://pan.baidu.com/s/1UJjEZe4-Qz3S3aOK0cAIRw?pwd=s296",
+      "url": ""
+    }
+  ],
+  "advantages": [
+    {
+      "id": "1",
+      "title": "超强抗压能力",
+      "description": "不管遇上什么事都能快速把自己安慰好，然后继续投入奋斗中——打不死的小强就是我。遇到困难的第一反应不是逃避，而是想办法解决它。",
+      "images": [
+        "/images/advantages/9cfcbd0b0256df87a2cbdf3ccc0061c6.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "超强执行力",
+      "description": "脑子里有可行的想法就会努力落地、持续完善。目标明确的任务能高效认真完成，同时也热爱需要创造力和新想法的挑战性工作，非常乐意尝试各种新鲜事物。",
+      "images": [
+        "/images/advantages/0fe2ee90c0ebacc2141c107fbd98b6ec.jpg",
+        "/images/advantages/f4c974c21b4378c47d1d81a823d327c3.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "持续学习成长",
+      "description": "知道自己还不够厉害，但坚信今天的自己一定要比昨天更好。自学 Shopify、数据分析、AI 工具等，始终保持开放的学习心态。",
+      "images": [
+        "/images/advantages/9bf2aa2faed22348e287faf0c918f2fb.jpg",
+        "/images/advantages/77e7b982f61dee394d9686f4ea1b20c2.jpg"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "数据分析",
+      "items": ["SPSS", "STATA", "SQL", "Excel 数据复盘", "A/B 测试"]
+    },
+    {
+      "category": "内容创作",
+      "items": ["剪映", "Canva", "即梦 AI", "ViduAI", "脚本策划", "拍摄剪辑"]
+    },
+    {
+      "category": "新媒体运营",
+      "items": ["IP 孵化", "选题策划", "商务谈判", "热点捕捉", "多平台运营"]
+    },
+    {
+      "category": "语言能力",
+      "items": ["雅思 7.0（听力8 阅读8.5）", "英语四六级", "全英文工作交流"]
+    }
+  ],
+  "aboutpara": "河海大学（211）社会学本科在读，GPA 4.26 / 5.0，雅思 7.0（听力8 阅读8.5）。主修社会学原理、定性研究、定量分析、访谈调研等课程，具备扎实的数据分析功底与用户洞察能力。热爱内容创作与新媒体运营，善于从数据中挖掘用户需求，用创意连接产品与用户。一个正在努力变e的 i 人，也是打不死的小强。",
+  "aboutPhoto": "/images/about-photo.jpg",
+  "research": [
+    {
+      "id": "1",
+      "title": "MBTI与星座标签文化研究",
+      "subtitle": "小组课程项目 | 2025.03 - 2025.06",
+      "description": "采用半结构式深度访谈法（本人访谈4人，团队共访谈12人）与问卷调查法（42份），探究大学生对标签文化的策略性使用与批判反思。",
+      "highlights": [
+        "定性研究：深度访谈+问卷调查，分析标签文化的认知评价与反思意识",
+        "协作能力：与2位成员合作完成提纲设计、数据收集、报告撰写全流程",
+        "研究成果：为社交产品用户研究提供定性洞察依据"
+      ],
+      "images": [
+        "/images/research/r1-1.png",
+        "/images/research/r1-2.png",
+        "/images/research/r1-3.png",
+        "/images/research/r1-4.png",
+        "/images/research/r1-5.png"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "鸠兹湾女性农民工调研",
+      "subtitle": "实地调研项目 | 2025.07",
+      "description": "在安徽鸠兹湾进行5天实地调研，深度访谈8位中老年女性农民工（45-71岁），采用半结构化访谈与参与式观察。",
+      "highlights": [
+        "田野调查：5天实地调研，深度访谈8位中老年女性农民工",
+        "核心发现：揭示女性农民工受「母职束缚」与资本流动双重制约的就业困境",
+        "社会价值：产出调研报告为企业提供决策依据，探索灵活岗位与技能培训的赋能路径"
+      ],
+      "images": [
+        "/images/research/r2-1.png",
+        "/images/research/r2-2.jpg",
+        "/images/research/r2-3.jpg",
+        "/images/research/r2-4.jpg",
+        "/images/research/r2-5.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "母职焦虑与群体交流研究",
+      "subtitle": "独立研究项目 | 2025.10 - 2025.12",
+      "description": "独立访谈3位不同职业背景的母亲（会计、职员、护士），每场约60分钟，围绕交流场景、情绪体验、角色认知展开。",
+      "highlights": [
+        "深度访谈：独立完成3场60分钟访谈，覆盖多元职业背景",
+        "核心发现：揭示母亲群体关系网络的双重效应——既是情感支持与信息共享的网络，也是社会比较与焦虑扩散的场域",
+        "独立完成：全程负责选题、访谈、编码、报告撰写，以叙事手法增强可读性"
+      ],
+      "images": [
+        "/images/research/r3-1.png",
+        "/images/research/r3-2.png"
+      ]
+    }
+  ],
+  "researchPanLink": "https://pan.baidu.com/s/1Bhv3sBnWKQ7eUZw8U8Yw0Q?pwd=a4pf",
+  "contact": {
+    "email": "3248719076@qq.com",
+    "wechat": "ba13977385638",
+    "phone": "18178323093",
+    "qrXiaohongshu": "/images/5465fede9a383bafb03babcb61bfd3fc.jpg",
+    "qrDouyin": "/images/bb772b1e39485493283d0e892be46733.jpg"
+  },
+  "resume": {
+    "tagline": "",
+    "description": "",
+    "experiences": [],
+    "education": { "universityName": "", "universityDate": "", "universityPara": "" },
+    "languages": [],
+    "frameworks": [],
+    "others": []
+  }
+}
